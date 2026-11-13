@@ -1,3 +1,4 @@
+import Home from "./components/Home"
 import Welcome from "./components/Welcome"
 
 
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
       <Welcome />
+      <Home />
     </>
   )
 }
